@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone https://github.com/yourusername/docx-modifier.git
+    git clone https://github.com/Alusofff/docx-modifier.git
     cd docx-modifier
     ```
 
